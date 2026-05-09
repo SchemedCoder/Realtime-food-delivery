@@ -1,0 +1,4 @@
+{"order_id":1001,"city":"Delhi","restaurant":"Burger King","delivery_time":25,"order_amount":550}
+{"order_id":1002,"city":"Mumbai","restaurant":"Dominos","delivery_time":40,"order_amount":720}
+{"order_id":1003,"city":"Bangalore","restaurant":"KFC","delivery_time":18,"order_amount":430}
+{"order_id":1004,"city":"Delhi","restaurant":"McDonalds","delivery_time":35,"order_amount":880}
